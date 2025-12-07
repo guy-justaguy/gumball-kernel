@@ -3,7 +3,7 @@
 # Example: /home/nothing/toolchain_fix/i686-elf-tools-linux/bin
 TOOLCHAIN_DIR = /i686-elf-tools
 
-CC      = $(TOOLCHAIN_DIR)/bin/i686-elf-g++
+CC      = $(TOOLCHAIN_DIR)/bin/i686-elf-gcc
 LD      = $(TOOLCHAIN_DIR)/bin/i686-elf-ld
 OBJCOPY = $(TOOLCHAIN_DIR)/bin/i686-elf-objcopy
 AS      = nasm
