@@ -10,7 +10,6 @@ AS      = nasm
 QEMU    = qemu-system-i386  # Use 32-bit QEMU system
 
 # --- SOURCE FILES ---
-# Add your source files here.
 ASM_SRC = boot.asm pm_entry.asm
 SOURCE  = kernel.C vga-vgt.c interrupts.c memory.c process.c
 
