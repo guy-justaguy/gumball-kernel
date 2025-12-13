@@ -14,5 +14,6 @@ lines of code: about 56 (in kernel.C) total aprox 110
 
 number of files: 14
 
-function now: print a msg (soon there will be a bash) 
-(N.B: THIS KERNEL IS NOT GURANTEED TO WORK ON YOUR HARDWARE AND POSES A RISK OF BRICKING YOUR COMPUTER. BOOT THIS ON YOUR COMPUTER IN YOUR OWN RISK) 
+function now: print a msg (soon there will be a bash)
+
+(N.B: THIS KERNEL IS NOT GURANTEED TO WORK ON YOUR HARDWARE AND POSES A RISK OF BRICKING YOUR COMPUTER (if not ran on QEMU). BOOT THIS ON YOUR ACTUAL HARDWARE IN YOUR OWN RISK
